@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import collections
-import functools
 import itertools
 import random
 import sys
