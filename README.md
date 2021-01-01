@@ -14,3 +14,5 @@ Run the script (you need to have python [installed](https://www.python.org/downl
 ```
 > python mastermind.py
 ```
+## Windows
+write manual
